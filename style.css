@@ -251,12 +251,12 @@ button{
     padding: 40px;
     border-radius: 50px;
 }
-.gallery-img img:hover{
+/* .gallery-img img:hover{
     transform:scale(2);
     position: fixed;
     left: 35%;
     top: 35%;
-}
+} */
 .gallery-img{
     display: inline-flex;
 }
